@@ -1,0 +1,9 @@
+Honda HRV_EX 2022 15000 80000.00
+Renault Sandero_Stepway 2023 20000 60000.00
+Toyota Yaris_XLS 2020 60000 80000.00
+Ford Focus_SE 2024 0 100000.00
+Fiat Cronos_Precision 2021 50000 78000.00
+Jeep Renegade_Sport 2020 45000 82000.00
+Hyundai Creta_Comfort 2025 0 142000.00
+Haval H6_PHEV19 2024 0 170000.00
+Chevrolet Tracker_Premier 2021 45000 123000.00
